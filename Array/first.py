@@ -94,4 +94,6 @@ arr2 = array('i', [10, 20, 30, 40, 50])
 arr3 = array('i', [60,70,80])
 arr4 = arr2+arr3
 print(arr4)
+print('------------------------------------')
 
+print('Hello,I am alamin.')
