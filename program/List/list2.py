@@ -1,4 +1,6 @@
-import numpy as np
 
-arr = np.arange(1,10).reshape(3,3)
-print(arr)
+def add(a,b):
+    return a+b
+
+
+print(add(5,5))
